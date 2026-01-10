@@ -1,0 +1,19 @@
+# Lab 2: MFA & Conditional Access
+
+## Objective
+Implement Zero Trust access controls using MFA and Conditional Access policies in Azure.
+
+## Tasks Performed
+- Created break-glass admin account
+- Enabled MFA for standard users
+- Designed Conditional Access policy enforcing MFA
+- Tested sign-in behavior and access logs
+
+## Security Concepts Applied
+- Zero Trust
+- Defense in depth
+- Identity protection
+- Risk reduction
+
+## Outcome
+User access is protected with MFA while maintaining administrative recovery paths.
